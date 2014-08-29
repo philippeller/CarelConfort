@@ -1,6 +1,15 @@
 CarelConfort
 ============
 
-open source interface to Lieberherr Mediline Fridges
+open source interface to Liebherr Mediline Fridges
 
-Usage: see file, change port!
+Connected by a USB <-> RS-485 converter
+
+Usage:
+-----
+- see file
+- change the tty port!
+
+dependencies:
+-------------
+- minimal modbus
