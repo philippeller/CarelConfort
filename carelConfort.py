@@ -53,5 +53,5 @@ class carelConfort(object):
 
 if __name__=='__main__':
     freezer = carelConfort()
-    temp = freezer.currentTemp
-    print 'temperature = %s degC'%temp/10.
+    temp = freezer.currentTemp/10.
+    print 'temperature = %s degC'%temp
