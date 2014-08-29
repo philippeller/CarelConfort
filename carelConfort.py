@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
+
+#####################################################
+# by Felix Bachmair & Philipp Eller, IPP ETHZ, 2014 #
+#####################################################
+
 import minimalmodbus
 
 class carelConfort(object):
